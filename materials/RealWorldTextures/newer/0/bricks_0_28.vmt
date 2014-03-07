@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/newer/0/bricks_0_28"
+	"$bumpmap" "RealWorldTextures/newer/0/bricks_0_28_nrm"
+	"$surfaceprop" "brick"
+}

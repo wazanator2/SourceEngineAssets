@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/new/Dunes03"
+	"$bumpmap" "RealWorldTextures/new/dunes03_4_nrm"
+	"$surfaceprop" "dirt"
+}

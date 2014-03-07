@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "RealWorldTextures\newer\0\Gravel_0_01"
+	"$basetexture2" "RealWorldTextures\newer\0\beach_0_04"
+	"%tooltexture" "RealWorldTextures\blends\SANDgravel_Tool"
+	"$surfaceprop" "sand"
+}

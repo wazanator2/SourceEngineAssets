@@ -1,0 +1,5 @@
+"lightmappedgeneric" {
+    "$basetexture" "RealWorldTextures/new/green_tile"
+    "$bumpmap" "RealWorldTextures/new/green_tile_normal"
+    "$surfaceprop" "tile"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/de_artcenter/metal2"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+}

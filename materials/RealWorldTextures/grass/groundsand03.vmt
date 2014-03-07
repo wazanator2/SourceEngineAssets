@@ -1,0 +1,5 @@
+"worldvertexalpha"{
+    "$basetexture" "RealWorldTextures\grass\groundsand03"
+    "$bumpmap" "RealWorldTextures\grass\groundsand03_n"
+    "$surfaceprop" "dirt"
+}

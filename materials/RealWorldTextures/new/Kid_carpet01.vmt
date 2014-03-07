@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/new/Kid_carpet01"
+	"$bumpmap" "RealWorldTextures/new/Kid_carpet01_nrm"
+	"$surfaceprop" "carpet"
+}

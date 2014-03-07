@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/newer/2/Marble_2_01"
+	"$envmapmask" "RealWorldTextures/newer/2/Marble_2_01_spec"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+}
