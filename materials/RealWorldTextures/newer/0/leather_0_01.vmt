@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/newer/0/leather_0_01"
+	"$bumpmap" "RealWorldTextures/newer/0/leather_0_01_nrm"
+	"$surfaceprop" "plastic"
+}

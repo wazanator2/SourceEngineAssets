@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/ceiling/ArgentGold"
+	"$bumpmap" "RealWorldTextures/ceiling/ArgentGold_nrm"
+	"$surfaceprop" "metal"
+	$envmap "env_cubemap"
+	$envmaptint "[.8 .8 .8]"
+	$envmapcontrast "1"
+}
+//Texture Made By TopHATTwaffle
+//Steam Account: Doogiehoogie
+//Xfire: Rocketrascal34
+//E-Mail: Doug@tophattwaffle.com
+

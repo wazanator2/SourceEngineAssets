@@ -1,0 +1,8 @@
+"lightmappedgeneric" {
+    "$basetexture" "RealWorldTextures/new/TileBlu_blau"
+    "$bumpmap" "RealWorldTextures/new/TileBlu_normal"
+    "$envmapmask" "RealWorldTextures/new/TileBlu_specular"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ 0.5020 0.5020 0.5020 ]"
+    "$surfaceprop" "tile"
+}

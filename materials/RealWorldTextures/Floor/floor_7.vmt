@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/Floor/floor_7"
+	"$bumpmap" "RealWorldTextures/Floor/floor_7_nrm"
+	"$surfaceprop" "tile"
+	$envmap "env_cubemap"
+	$envmaptint "[.2 .2 .2]"
+	$envmapcontrast "1"
+}
+
+//Texture Made By TopHATTwaffle
+//Steam Account: Doogiehoogie
+//Xfire: Rocketrascal34
+//E-Mail: Doug@tophattwaffle.com

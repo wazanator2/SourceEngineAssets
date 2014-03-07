@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/newer/3/bronzecopper_3_01"
+	"$bumpmap" "RealWorldTextures/newer/3/bronzecopper_3_01_nrm"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/newer/3/tile_3_15"
+	"$bumpmap" "RealWorldTextures/newer/3/tile_3_15_nrm"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+}

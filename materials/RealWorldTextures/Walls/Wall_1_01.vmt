@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/Walls/Wall_1_01"
+	"$bumpmap" "RealWorldTextures/Walls/Wall_1_01_nrm"
+	"$surfaceprop" "plastic"
+}
