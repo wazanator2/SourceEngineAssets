@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Concrete\concrete_59"
+	"$detail" "RealWorldTextures2\detail\detailconcrete001a"
+	"$surfaceprop" "concrete"
+	"$detailblendfactor" ".45"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

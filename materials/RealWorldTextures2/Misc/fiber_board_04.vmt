@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Misc\fiber_board_04"
+	"$bumpmap" "RealWorldTextures2\Misc\fiber_board_04_nrm"
+	"$detail" "RealWorldTextures2\detail\dt_fabric2"
+	"$detailblendfactor" ".6"
+	"$detailscale" "7"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Misc\fence_04"
+	"$bumpmap" "RealWorldTextures2\Misc\fence_04_05_nrm"
+	"$envmapmask" "RealWorldTextures2\Misc\fence_04_05_SPEC"
+	"$translucent" 1
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.8 .8 .8]"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

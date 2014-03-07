@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Metal\metal_106"
+	"$bumpmap" "RealWorldTextures2\Metal\metal_106_nrm"
+	"$envmapmask" "RealWorldTextures2\Metal\metal_106_spec"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

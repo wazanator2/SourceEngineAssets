@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Concrete\asphault_blacktop_01"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.4 .4 .4]"
+	"$reflectivity" "[.2 .2 .2]"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com
