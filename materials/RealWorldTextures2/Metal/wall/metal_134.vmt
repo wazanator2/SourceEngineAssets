@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Metal\wall\metal_134"
+	"$bumpmap" "RealWorldTextures2\Metal\wall\metal_134_nrm"
+	"$detail" "RealWorldTextures2\detail\metal_detail_01"
+	"$detailblendfactor" ".7"
+	"$detailscale" "4"
+	"$surfaceprop" "metal"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

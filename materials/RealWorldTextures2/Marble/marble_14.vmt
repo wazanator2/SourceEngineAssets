@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Marble\marble_14"
+	"$surfaceprop" "rock"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.55 .55 .55]"
+	"$detail" "RealWorldTextures2\detail\dt_stone3"
+	"$detailscale" "7"
+	"$detailblendfactor" ".3"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com
