@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures\grass/frozenground"
+	"$bumpmap" "RealWorldTextures\grass/frozenground_normal"
+                "$surfaceprop" "snow"
+	"$translucent" 1
+}

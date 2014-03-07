@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/ceiling/Ceiling_07"
+	"$bumpmap" "RealWorldTextures/ceiling/Ceiling_07_nrm"
+	"$surfaceprop" "metal"
+	$envmap "env_cubemap"
+	$envmaptint "[.8 .8 .8]"
+	$envmapcontrast "1"
+}
+//Texture Made By TopHATTwaffle
+//Steam Account: Doogiehoogie
+//Xfire: Rocketrascal34
+//E-Mail: Doug@tophattwaffle.com

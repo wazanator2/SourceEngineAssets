@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/de_artcenter/concrete01"
+	"$bumpmap" "de_artcenter/concrete01_NRM"
+	"$surfaceprop" "Concrete"
+}

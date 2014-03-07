@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/ceiling/Ceiling_05"
+	"$bumpmap" "RealWorldTextures/ceiling/Ceiling_05_nrm"
+	"$surfaceprop" "wood"
+	$envmap "env_cubemap"
+	$envmaptint "[.4 .4 .4]"
+	$envmapcontrast "1"
+}
+//Texture Made By TopHATTwaffle
+//Steam Account: Doogiehoogie
+//Xfire: Rocketrascal34
+//E-Mail: Doug@tophattwaffle.com

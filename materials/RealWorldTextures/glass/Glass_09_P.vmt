@@ -1,0 +1,7 @@
+"UnLitGeneric"
+{
+ 	"$model" 1
+	"$basetexture" "RealWorldTextures/glass/glass_09_P"
+//	"$translucent" "1"
+	"$additive" "1"
+}

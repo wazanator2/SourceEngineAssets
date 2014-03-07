@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "RealWorldTextures\grass/grassblend1"
+	"$basetexture2" "RealWorldTextures\grass/grassblend2"
+	"$surfaceprop" "sand"
+	"$bumpmap" "RealWorldTextures\grass/grassblend1_normal"
+	"$bumpmap2" "RealWorldTextures\grass/grassblend2_normal"
+	"%keywords" "cstrike" 
+}

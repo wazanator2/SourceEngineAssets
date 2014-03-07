@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/ceiling/Coffer"
+	"$bumpmap" "RealWorldTextures/ceiling/Coffer_nrm"
+	"$surfaceprop" "metal"
+	$envmap "env_cubemap"
+	$envmaptint "[.6 .6 .6]"
+	$envmapcontrast "1"
+}
+//Texture Made By TopHATTwaffle
+//Steam Account: Doogiehoogie
+//Xfire: Rocketrascal34
+//E-Mail: Doug@tophattwaffle.com
+

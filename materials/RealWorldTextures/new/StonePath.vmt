@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures/new/StonePath"
+	"$bumpmap" "RealWorldTextures/new/StonePath_nrm"
+	"$surfaceprop" "Rock"
+}
