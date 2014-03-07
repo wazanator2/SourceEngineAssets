@@ -1,0 +1,1 @@
+Please only upload models and their materials to this directory.

@@ -1,0 +1,1 @@
+Please only upload textures that are meant for level geo, not materials for models those belong in the models folder.
