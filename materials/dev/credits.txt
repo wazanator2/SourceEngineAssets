@@ -1,0 +1,11 @@
+dev_measuregeneric03    =     Wazanator
+dev_measuregeneric04    =     Wazanator
+dev_measuregeneric05    =     Wazanator
+dev_measuregeneric06    =     Wazanator
+dev_measuregeneric07    =     Wazanator
+dev_measuregeneric08    =     Wazanator
+dev_measuregeneric09    =     Wazanator
+dev_measuregeneric10    =     Wazanator
+dev_measuregeneric11    =     Wazanator
+dev_measuregeneric12    =     Wazanator
+dev_measuregeneric13    =     Wazanator
