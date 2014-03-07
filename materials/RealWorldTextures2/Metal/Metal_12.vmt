@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Metal\Metal_12"
+	"$envmaptint" "[.2 .2 .2]"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$detail" "RealWorldTextures2\detail\dt_metal1"
+	"$detailblendfactor" ".7"
+	"$detailscale" "8"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

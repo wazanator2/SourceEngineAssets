@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\marble\support\marble_pillar_08"
+	"$bumpmap" "RealWorldTextures2\marble\support\marble_pillar_08_nrm"
+	"$surfaceprop" "rock"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.7 .7 .7]"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

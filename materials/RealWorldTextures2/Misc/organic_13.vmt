@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Misc\organic_13"
+	"$bumpmap" "RealWorldTextures2\Misc\organic_13_nrm"
+	"$surfaceprop" "flesh"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.7 .7 .7]"
+	"$detail" "RealWorldTextures2\detail\dt_smooth1"
+	"$detailblendfactor" ".3"
+	"$detailscale" "7"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com
