@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roadpack\europe\road_eu_2lane"
+	"$surfaceprop" "concrete"
+}

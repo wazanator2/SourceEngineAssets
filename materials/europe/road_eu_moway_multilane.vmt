@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roadpack\europe\road_eu_moway_multilane"
+	"$surfaceprop" "concrete"
+}

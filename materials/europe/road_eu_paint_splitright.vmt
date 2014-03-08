@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roadpack\europe\road_eu_paint_splitright"			"$translucent"	1
+	"$decal"	1
+}

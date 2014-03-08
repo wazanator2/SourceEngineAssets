@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roadpack\europe\road_eu_diaglines_halfdense"
+	"$translucent"	1
+	"$decal"	1
+}
